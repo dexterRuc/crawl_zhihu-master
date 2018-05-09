@@ -1,0 +1,2 @@
+sendip 运行在VPS拨号主机上
+recevieip 运行在公网固定IP服务器
